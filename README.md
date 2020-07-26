@@ -1,2 +1,2 @@
 # github
-my test first repository 
+my test first repository - learning purpose 
